@@ -6,6 +6,11 @@ O projeto foi criado com o objetivo de praticar conceitos de programação e des
 
 ## 🖥️ Sobre o projeto
 
+## 📸 Demonstração
+
+![Agenda de Tarefas](agenda.png)
+
+
 A Agenda permite organizar tarefas por meio de uma interface gráfica e possui recursos relacionados à visualização e organização de atividades.
 
 Este projeto faz parte da minha jornada de aprendizado em programação e foi desenvolvido com foco na prática de conceitos fundamentais de Python.
