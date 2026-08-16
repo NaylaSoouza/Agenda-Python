@@ -2,7 +2,7 @@
 
 Aplicação de agenda desenvolvida em **Python** durante meus estudos de programação.
 
-O projeto foi desenvolvido com o objetivo de colocar em prática conceitos de programação, lógica e desenvolvimento de interfaces gráficas.
+O projeto foi desenvolvido com o objetivo de colocar em prática conceitos de programação, lógica e desenvolvimento de interfaces gráficas. 
 
 ## 📸 Demonstração
 
